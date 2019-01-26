@@ -1,0 +1,25 @@
+{
+  "name": "pursuit-blog",
+  "version": "1.0.0",
+  "description": "You are to build a simple, authentication enabled Blog API. This API will contain the following high level functionalities:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install -- save express body-parser pg-promise bcrypt"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pg-promise": "^8.5.5",
+    "save": "^2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
